@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:path*", "destination": "http://[Your Domain]/:path*" }
+  ]
+}
